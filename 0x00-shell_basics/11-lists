@@ -1,2 +1,2 @@
 #!/bin/bash
-if echo -e "Current Directory:\n" `ls -al` `[ -d ../ ] && echo -e "\nParent Directory:\n"` `cd ..` `ls -al` `echo -e "\n/boot Directory:\n"` `ls -al /boot`; then true; fi
+if echo -e "Current Directory:\n" `ls -al`\n [ -d ../ ] && echo -e "\nParent Directory:\n"`cd ..` `ls -al` `echo -e "\n/boot Directory:\n"` `ls -al /boot`\n then true\n fi
