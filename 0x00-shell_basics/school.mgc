@@ -1,0 +1,2 @@
+#!/bin/bash
+find /path/to/directory -type f -exec sh -c 'file "$0" | grep -q "SCHOOL:.*data"' {} \; -print
