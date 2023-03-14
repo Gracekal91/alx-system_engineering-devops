@@ -1,3 +1,2 @@
 #!/bin/bash
-touch with!@special#\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
-"Best School" > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+echo "Best School" > \\\*\\\\"'\"Best School\"\\'"\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
